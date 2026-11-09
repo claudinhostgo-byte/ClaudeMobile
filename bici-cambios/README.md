@@ -2,7 +2,7 @@
 
 Animación (30 s): https://claude.ai/artifact/68tDdVLqKy4tsPrYqMuNRF
 
-`animacion-con-voz.html` es la misma animación con la voz incluida: ábrela y toca ▶.
+`animacion-con-voz.html` es la misma animación en estilo de bloques y pixeles, con la voz y una música suave original incluidas (`voz-y-musica.mp3`): ábrela y toca ▶.
 
 `voz-narracion.mp3` es la voz que explica cada parte, ya calzada con los tiempos del video
 (dura 30 s y empieza en 0:00). Se generó con Kokoro, un modelo de voz gratuito y de código abierto.
